@@ -1,0 +1,25 @@
+view {
+  background-color: #ffffff
+}
+
+.btn-green {
+  color            : #c9a0dc;
+  background-color : linear-gradient(#c9a0dc, #750082);
+  border-width     : 1px;
+  border-color     : #84a254;
+  border-style     : solid;
+  border-radius    : 10px;
+  font-size        : 13px;
+}
+.text-go {
+  color            : #6b4423;
+  background-color : linear-gradient(#6b4423, #6b4423);
+  border-width     : 5px;
+  border-color     : #6b4423;
+  border-style     : solid;
+  border-radius    : 10px;
+  font-size        : 15px;
+}
+.tble {
+  color            : #6b4423;
+}
